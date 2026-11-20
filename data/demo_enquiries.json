@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tap-cartridge-missing-measurements",
+    "title": "Tap cartridge — measurements missing",
+    "message": "Hi, I need a replacement cartridge for my AquaVale Metro basin tap. The tap drips constantly and I have attached a photo. There are no readable markings, but I have not removed the cartridge yet so I do not have measurements."
+  },
+  {
+    "id": "shower-valve-complete",
+    "title": "Shower valve — strong evidence",
+    "message": "I need help with a Northbridge Tempra 200 concealed shower valve. The thermostatic cartridge is marked NB-T200. It is 86 mm long, 32 mm across the body and has 20 splines. The temperature is stuck hot. Photos attached."
+  },
+  {
+    "id": "toilet-flush-no-code",
+    "title": "Toilet flush — no visible code",
+    "message": "The dual flush valve in my FlushCraft Nova close-coupled toilet keeps running and the button sticks. I cannot see a product code. The outlet is 50 mm and the valve is about 260 mm high. I have attached photos of the cistern and removed valve."
+  },
+  {
+    "id": "return-with-order",
+    "title": "Return request — order supplied",
+    "message": "I need to return an unopened shower seal from order BSP-10482 because I ordered the wrong size. Please tell me what to do next."
+  },
+  {
+    "id": "vague-escalation",
+    "title": "Vague enquiry — escalation required",
+    "message": "The thing in my bathroom is broken. Can you tell me what I need?"
+  }
+]
